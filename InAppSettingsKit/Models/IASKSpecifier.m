@@ -14,7 +14,7 @@
 //  This code is licensed under the BSD license that is available at: http://www.opensource.org/licenses/bsd-license.php
 //
 
-#import "IASKSpecifier.h"
+//#import "IASKSpecifier.h"
 #import "IASKSettingsReader.h"
 #import "IASKAppSettingsWebViewController.h"
 
