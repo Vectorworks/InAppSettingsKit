@@ -10,3 +10,5 @@ InAppSettingsKitSampleApp/build/**
 *.xccheckout
 *.xcscmblueprint
 CarthageTest
+Carthage/**
+InAppSettingsKit.framework.zip
